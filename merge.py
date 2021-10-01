@@ -1,4 +1,5 @@
 from heapq import merge
+from quickort import quick_sort
 
 
 def merge_multiple_seq(lists: list, k: int):
